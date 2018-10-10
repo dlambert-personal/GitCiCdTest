@@ -1,0 +1,11 @@
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\bin\Debug\netcoreapp2.0\GitCiCdTest.deps.json
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\bin\Debug\netcoreapp2.0\GitCiCdTest.runtimeconfig.json
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\bin\Debug\netcoreapp2.0\GitCiCdTest.runtimeconfig.dev.json
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\bin\Debug\netcoreapp2.0\GitCiCdTest.dll
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\bin\Debug\netcoreapp2.0\GitCiCdTest.pdb
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\obj\Debug\netcoreapp2.0\GitCiCdTest.csprojAssemblyReference.cache
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\obj\Debug\netcoreapp2.0\GitCiCdTest.csproj.CoreCompileInputs.cache
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\obj\Debug\netcoreapp2.0\GitCiCdTest.AssemblyInfoInputs.cache
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\obj\Debug\netcoreapp2.0\GitCiCdTest.AssemblyInfo.cs
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\obj\Debug\netcoreapp2.0\GitCiCdTest.dll
+c:\users\lambertd\source\repos\GitCiCdTest\GitCiCdTest\obj\Debug\netcoreapp2.0\GitCiCdTest.pdb
